@@ -1,0 +1,4 @@
+
+ module_header_tags_notranslate_title = Do you want use Google No translate
+ module_header_tags_notranslate_description = Add a functionnalities for no translate page by google.
+

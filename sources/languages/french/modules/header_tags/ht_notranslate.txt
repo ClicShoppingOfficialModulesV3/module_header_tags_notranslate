@@ -1,0 +1,2 @@
+module_header_tags_notranslate_title = Souhaitez-vous utiliser la balise Notranslate ?
+module_header_tags_notranslate_description = Ajouter la balise Notranslate dans la boutique
